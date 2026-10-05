@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+
+.keras
+*.h5
+
+.vscode/
+
+data/*.npy
+data/*.pkl
+
+*.log
